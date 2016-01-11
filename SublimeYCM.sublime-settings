@@ -1,0 +1,4 @@
+{
+    "python_executable": "python",
+    "global_extra_config": "ycm_extra_conf.py",
+}
